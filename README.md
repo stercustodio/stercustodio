@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stercustodio
+- 👋 Hi, I’m Stephanie Custodio Santana | @stercustodio
 - 👀 I’m interested in Data Science and Full Stack Developer.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python for now...
