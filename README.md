@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephanie Custodio Santana | @stercustodio
-- 👀 I’m interested in Data Science and Back-End Developer
+- 👀 I’m interested in Data Engineering and Back-End Developer
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Python and SQL for now...
 - 📫 How to reach me: https://www.linkedin.com/in/stephanie-custodio-santana/
