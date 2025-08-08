@@ -1,4 +1,4 @@
 - 💻 I’m a Junior Data Engineer working with Python and SQL to build and maintain ETL processes for data pipelines.
 - ☁️ Currently learning Cloud Computing to enhance data engineering workflows and automation.
 - 👀 Interested in Data Engineering, Back-End Development, and scalable data solutions.
-- 📫 How to reach me: (https://www.linkedin.com/in/stephanie-custodio-santana/)(LinkedIn)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stephanie-custodio-santana/)
