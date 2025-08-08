@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Stephanie Custodio Santana | @stercustodio
-- 👀 I’m interested in Data Engineering and Back-End Developer
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Python and SQL for now...
-- 📫 How to reach me: https://www.linkedin.com/in/stephanie-custodio-santana/
+- 💻 I’m a Junior Data Engineer working with Python and SQL to build and maintain ETL processes for data pipelines.
+- ☁️ Currently learning Cloud Computing to enhance data engineering workflows and automation.
+- 👀 Interested in Data Engineering, Back-End Development, and scalable data solutions.
+- 📫 How to reach me: (https://www.linkedin.com/in/stephanie-custodio-santana/)(LinkedIn)
